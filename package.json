@@ -1,6 +1,6 @@
 {
   "name": "jrun-normalize",
-  "version": "9.0.0",
+  "version": "9.1.0",
   "description": "Forked from necolas/normalize.css. An opinionated customized version of normalize.css",
   "main": "normalize.css",
   "style": "normalize.css",
