@@ -1,6 +1,6 @@
 {
   "name": "jrun-normalize",
-  "version": "8.0.2",
+  "version": "9.0.0",
   "description": "Forked from necolas/normalize.css. An opinionated customized version of normalize.css",
   "main": "normalize.css",
   "style": "normalize.css",
@@ -8,12 +8,11 @@
     "LICENSE.md",
     "normalize.css"
   ],
-  "repository": "jasonrundell/normalize.css",
-  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/jasonrundell/normalize.css"
   },
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jasonrundell/normalize/issues"
   }
