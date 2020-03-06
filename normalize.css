@@ -249,3 +249,21 @@ details {
 summary {
   display: list-item;
 }
+
+/*
+ * Universal Box Sizing with Inheritance (https://css-tricks.com/box-sizing/)
+ * This makes dealing with the sizes of elements much easier (https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+*/
+
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
